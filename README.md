@@ -32,7 +32,7 @@ Installing
 You will need to clone the repository of the project from Github. This will contain the simple shell program and all of its dependencies.
 
 
-yonasleykun27
+SibusisoDM
 /
 AirBnB_clone
 Public
@@ -46,10 +46,8 @@ Actions
 Projects
 Security
 Insights
-yonasleykun27/AirBnB_clone
 Latest commit
-@yonasleykun27
-yonasleykun27
+@SibusisoDM
 …
 on Nov 27, 2022
 Git stats
@@ -88,7 +86,7 @@ These instructions will get you a copy of the project up and running on your loc
 Installing
 You will need to clone the repository of the project from Github. This will contain the simple shell program and all of its dependencies.
 
-git clone https://github.com/jzamora5/AirBnB_clone.git
+git clone https://github.com/SibusisoDM/AirBnB_clone.git
 After cloning the repository you will have a folder called AirBnB_clone. In here there will be several files that allow the program to work.
 
 /console.py : The main executable of the project, the command interpreter.
